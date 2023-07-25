@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    height: 250px;
+    
+}
+
+.item {
+    flex:1;
+    border: 1px solid black;
+    margin: 5px;
+    width: 200px;
+}
